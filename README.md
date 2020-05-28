@@ -1,4 +1,4 @@
-# Testing DB Access Code
+# DB Access Code Testing
 
 Replication package for the paper entitled "Challenges and Perils of Database Access Code Testing: an Exploratory Analysis."
 
