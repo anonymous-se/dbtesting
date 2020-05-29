@@ -2,10 +2,15 @@
 
 Replication package for the paper entitled "Challenges and Perils of Database Access Code Testing: an Exploratory Analysis."
 
-## rq1_coverage
+## RQ1: How do developers test database access code?
 
-Scripts and data used for the research question "How do developers test database access code?"
+Scripts and data used for the research question.
 
-## rq2_problems
+## RQ2: What are the main challenges/problems when testing database access code?
 
-Tags and the database of the final classification for the research question "What are the main challenges/problems when testing database access code?"
+The final classification for the research question.
+
+[Summary of labels](rq2/category_summary.csv)
+[StackExchange questions and their final labels](rq2/question_categories.csv)
+
+![Taxonomy](rq2/taxonomy.png "Taxonomy")
