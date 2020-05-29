@@ -4,7 +4,10 @@ Replication package for the paper entitled "Challenges and Perils of Database Ac
 
 ## RQ1: How do developers test database access code?
 
-Scripts and data used for the research question.
+- [Tools with usage description to run the analysis](rq1_coverage/scripts)
+- [Full list of the projects](rq1_coverage/clonedProjects.csv).
+- [The final 72 projects and their coverage measures](rq1_coverage/resultSet-Final.csv)
+- [SQLite DB of the database eaccess and coverage analyses.](rq1_coverage/dataset.db)
 
 ## RQ2: What are the main challenges/problems when testing database access code?
 
