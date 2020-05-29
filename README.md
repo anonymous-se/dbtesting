@@ -10,7 +10,7 @@ Scripts and data used for the research question.
 
 The final classification for the research question.
 
-[Summary of labels](rq2/category_summary.csv)
-[StackExchange questions and their final labels](rq2/question_categories.csv)
+- [Summary of labels](rq2_problems/category_summary.csv)
+- [StackExchange questions and their final labels](rq2/question_categories.csv)
 
-![Taxonomy](rq2/taxonomy.png "Taxonomy")
+![Taxonomy](rq2_problems/taxonomy.png "Taxonomy")
